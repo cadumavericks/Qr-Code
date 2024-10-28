@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+body{
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Outfit"
+}
+img{
+    width: 300px;
+    border-radius: 8px;
+}
+.caixa{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+    width: 300px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+}
+p{
+    font-weight: 400; 
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+}
+
